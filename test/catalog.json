@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "sequence": 2,
-  "issued": "2026-09-28T15:48:43.5771843+00:00",
+  "sequence": 3,
+  "issued": "2026-09-28T15:50:38.4681736+00:00",
   "targets": [
     {
       "product": "step",

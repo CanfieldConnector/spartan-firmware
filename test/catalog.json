@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "sequence": 5,
-  "issued": "2026-09-28T16:04:51.9706028+00:00",
+  "sequence": 6,
+  "issued": "2026-09-28T16:09:10.7679908+00:00",
   "targets": [
     {
       "product": "step",
       "board": "4A958-09",
-      "version": "0.0.27",
-      "file": "step/4A958-09/0.0.27/Stepper_0.0.27__8-28-2026_zephyr.signed.bin",
-      "sha256": "fe0a7190b2f6854fe75773c358e52e2f1a2edaca59d7e350c6bfe729c3105217",
-      "size": 411283,
-      "imageHash": "8397e7b0a3586b6c1cbfe17310cce1e451369233befb3ff22de502dc885e3f7c",
-      "notes": "Test release 0.0.27."
+      "version": "0.0.25",
+      "file": "step/4A958-09/0.0.25/Stepper_0.0.25__8-14-2026_zephyr.signed.bin",
+      "sha256": "df31569161523e25218401c362bbb67caa703d7e066eaf041e170a2f3ac3b5f9",
+      "size": 409351,
+      "imageHash": "aebfb1f86c53add096123991d4ef72d87af06575c5a596c8b0528a5351e88e0c",
+      "notes": "Test release 0.0.25 (download test)."
     }
   ]
 }
